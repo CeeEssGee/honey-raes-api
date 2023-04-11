@@ -52,8 +52,8 @@
     },
     {
       "id": 2,
-      "address": "56849 Fadel Gateway",
-      "phoneNumber": "202-244-7090",
+      "address": "56849 Gate Parkway",
+      "phoneNumber": "904-555-8500",
       "userId": 1
     },
     {
@@ -66,8 +66,8 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "PC Repair",
-      "rate": 72.47,
+      "specialty": "PC and Mac Repair",
+      "rate": 80.55,
       "userId": 4
     },
     {
