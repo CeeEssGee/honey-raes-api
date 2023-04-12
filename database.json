@@ -52,7 +52,7 @@
     },
     {
       "id": 2,
-      "address": "56849 Gate Parkway",
+      "address": "582 Gate Parkway, Apt. 10",
       "phoneNumber": "904-555-8500",
       "userId": 1
     },
@@ -66,8 +66,8 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "PC and Mac Repair",
-      "rate": 80.55,
+      "specialty": "PC Repair",
+      "rate": 75.75,
       "userId": 4
     },
     {
